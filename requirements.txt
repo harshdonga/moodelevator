@@ -13,4 +13,4 @@ python-decouple
 django-utils-six
 tqdm
 opencv-python-headless
-tensorflow
+tensorflow-cpu
