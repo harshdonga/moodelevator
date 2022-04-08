@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mood-elevator",
+  "private_key_id": "0c79160c60f9c42bdbc3402265b79de461b7a352",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCxUIp03mISx4BL\nTqELuSZe+Gi/RLZ0dqMeX5XCd/kD8zjePRlszGmqc4918BYNPmsooWK13e47NAb9\nyQIOHUtzRUnwmInuohkfpQDuYzC1lX4SzuUPsjAVNoGtYGBptfjynyfnBJetlmWx\nNKcqv1zbLcEEsGjU43QvZf304x4cu06byQT02MKw9OGBtCLNU5IeeiEE5HtFlvdJ\nPg/JzqY6HDLyPGeTga5qC1EOrZlZAV/m5OVU1W+Bk6x9fxQmR6b/+x0zHpUkiB9c\nuTnms5rR4plm91HgEXGa/kR164TRW7GLvKh0bZH3Xar4Gcw8LxweXgNbEmMtX4U8\n3uB/imT7AgMBAAECggEAR2kiefLeGKYUO0ANiAUnOPReazmnKbxl8WOZktpyhW69\nJnQA+1pP6//idSMeHnNXAOQONySMP3eyoR8FHt4ZdvEe2DD2zA6og6AWgeucwGTW\ng4ijo/ClgMWU8FhyO+C3xC7pCRdGZvi9N+L2uDadlQAWTmclsSdxsW0oHCokBHmW\n7PlQIIrZe/CTwlzbYfgYc+jMMvIIoWQBuhhML/D24IiChf9l70tt2lHGSoXHRLr0\nfM/2yvgYoZHuaRnbx3cLV72qy1gekICJQY6NHJAbgEDSS9HgM6bwD+vtpAR0XjRQ\nvzYYZQCllfguByiB4kAvLDBKFyZXbGFpUpi2FXIGoQKBgQDoPiS+c0+ErYDqBxdk\nhajM+kUosPD1wLiIJ5VCUQfQkpM4PBB+5b/tgwfvwRZcdqhkEfVLDta2+hnSOdTs\nkxgnpwKBPk+beLAQ5Qn4WoONkmUE8tP+sMbutPFR8cW+24Ql/Wf9eRSG24oNmYXn\nfDo+gpkM1WhqzT9BbBOSDT2LyQKBgQDDc/eFvvsIXpECS0sx8bzJfJLbY1nt9x51\nDAetXX3Pr0L14GIR2s5U+PDePrYpK6bbNL1xPKLpjVQuYotSc6y0uWP5T4uMKVwp\nX0ORv7yXl/Gih9hUqeCoRVrRCQGDl5khpUVT32J8FCWrdYVQtrPs8u5vFpqtwy9v\n8l9UIPFEowKBgCbB4C3sXnPc5KupnUzIRYBXr9z3km7gx6rpOC6GCVDUdT8oPvR+\ncQY5HMT1Kz8pCjcRDCeHhWup109PGWqVra1IYNGizXQ7st5O6tgIevXQXY1y3NAf\nPkOt7KvpNkAAsFAKtyUE5NkQoDxex4r3H105PEN5BeD0+b54Q9fW39OJAoGAZoSC\nNSXaOCaZ+tERbO317t0njmlLNzUiRZR8xmM+ZVvxTFRYPDM/fHRiqr/L/kZGK747\nC5UZglU97WKE30eLM/P1y0P81xSuoYi1QVKHkiABfxWv06CTFM/j9ba6k5JFoM82\nUOrflmNe6tMmjRJ3x3YYuC3sDe5OCHLhq5fn1O8CgYBm4YBNqaZyW2PvjLF9b0KF\nP/weW5LVQ2LEtdFewb6AZERd8Ov4fE/GewLlNY5YdKs1oNg3aD8TBYGQCKPavNLc\nSjJQTf6BSIVROIGGs+/BxYHs/QutaZnx+EL7BMOXYHMcTsIOR4EAIjvKEfgHHRj4\niMS2vE8H7onYVUXMIaVE0g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-og7nz@mood-elevator.iam.gserviceaccount.com",
+  "client_id": "115044981752864685886",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-og7nz%40mood-elevator.iam.gserviceaccount.com"
+}

@@ -1,0 +1,1 @@
+web: gunicorn MoodElevator.wsgi --log-file -

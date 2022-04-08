@@ -1,0 +1,16 @@
+boto3
+pandas
+numpy
+opencv-python
+scikit-learn
+FER
+firebase-admin
+django
+django-heroku
+gunicorn
+whitenoise
+python-decouple
+django-utils-six
+tqdm
+opencv-python-headless
+tensorflow
